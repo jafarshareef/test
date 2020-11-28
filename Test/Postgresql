@@ -6,3 +6,4 @@ ALTER USER postgres WITH PASSWORD 'odoo'
 
 sudo -u postgres psql
 
+changes 1
